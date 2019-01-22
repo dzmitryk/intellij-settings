@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-DsnowboundWar=/home/work/lucidworks/snowbound-perf/virtualviewer.war" />
+  </component>
+</application>
